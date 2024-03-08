@@ -136,21 +136,38 @@ Git&Maven&Docker&MongoDB 这些中间件大致了解一下如何使用就差不�
 
 ### 项目
 
+- 项目推荐
+
 项目这里推荐一个轮子项目+一个业务项目，这样的话找工作的时候匹配的业务方向面更广；
 
 1、手写RPC项目，可以参考：https://github.com/viego1999/wxy-rpc ；
 
-2、在线教育平台项目，可以参考：https://github.com/viego1999/xuecheng-plus-project ，教学视频[学成在线](https://www.bilibili.com/video/BV1j8411N7Bm/?spm_id_from=333.337.search-card.all.click&vd_source=8f6745987f6d9c4a333570852e433d6c)；
+2、在线教育平台项目，可以参考：https://github.com/viego1999/xuecheng-plus-project ，教学视频 [学成在线](https://www.bilibili.com/video/BV1j8411N7Bm/?spm_id_from=333.337.search-card.all.click&vd_source=8f6745987f6d9c4a333570852e433d6c)；
 
 3、黑马点评，可以参考：https://github.com/viego1999/xy-dianping ；
 
 实际上可以把某马点评中的技术要求高的模块结合到学成在线里面，我是把 秒杀业务 放到了学成在线中，学成在线还有很多配套资料很全面；
 
-简历可以参考如下写法：
+- 对应项目的面试资料
+  - 对应项目的一些面试资料整理放在了 [Introduction.md](Introduction.md) 文件中，以及一些自我介绍等内容
 
-<img src="asset/简历1.png">
+### 简历
 
-<img src="asset/简历2.png">
+**简历**可以参考如下写法：
+
+- **个人信息和教育背景**
+
+<img src="asset\简历.png" alt="个人信息和教育背景" style="zoom:80%;" />
+
+- **专业技能**
+
+<img src="asset\简历0.png" alt="专业技能" style="zoom:80%;" />
+
+- **项目经历**
+
+<img src="asset\简历1.png" alt="项目1" style="zoom:80%;" />
+
+<img src="asset\简历2.png" alt="简历2" style="zoom:80%;" />
 
 ### 八股文
 
@@ -158,11 +175,11 @@ Git&Maven&Docker&MongoDB 这些中间件大致了解一下如何使用就差不�
 
 1、自己学习的笔记以及所有视频的配套资料；
 
-2、[JavaGuide](https://javaguide.cn/)：这个适合突击背诵，内容涉及面广但是都不深入，都停留在表面，可以用来和自己的笔记、配套资料结合背诵；
+2、[JavaGuide](https://javaguide.cn/) ：这个适合突击背诵，内容涉及面广但是都不深入，都停留在表面，可以用来和自己的笔记、配套资料结合背诵；
 
-3、[小林coding](https://xiaolincoding.com/)：主要是和用来看 **计算机网络** 和 **操作系统**，同时也可以看看里面的 **Redis** 和 **MySQL**，个人感觉这个网站质量非常高；
+3、[小林coding](https://xiaolincoding.com/) ：主要是和用来看 **计算机网络** 和 **操作系统**，同时也可以看看里面的 **Redis** 和 **MySQL**，个人感觉这个网站质量非常高；
 
-4、[拓跋阿秀](https://interviewguide.cn/)：这里主要看的是 **智力题** 和 **场景题** 以及 **海量数据处理**；
+4、[拓跋阿秀](https://interviewguide.cn/) ：这里主要看的是 **智力题** 和 **场景题** 以及 **海量数据处理**；
 
 5、一些额外的八股文pdf, md文档等，可以访问：https://github.com/viego1999/JavaWxy ，这里是对上述内容的一些补充，记录了一些比较重要和比较偏的面试题，*markdown文件下载下来可以访问图片*；
 
@@ -178,7 +195,17 @@ Git&Maven&Docker&MongoDB 这些中间件大致了解一下如何使用就差不�
 
 我的算法总结：https://github.com/viego1999/Leetcode-Pro ，主要的刷题总结在excel表中。
 
+- ★★★各类算法的md文件总结，包括了常见的算法以及对应的模板题，应对笔试很好用，在**docs**文件夹下；
+- **力扣.xlsx**文件包括了上千题力扣题目以及对应标签和总结
+- **src**文件夹下主要是对应题目的算法题代码，有力扣、各种oj的
+
 ----
+
+### 面经合集
+
+在文档 [面试记录.md](面试记录.md) 中
+
+---
 
 暂时先写这么多了，后续有想到要补充的再继续完善了~~~
 
